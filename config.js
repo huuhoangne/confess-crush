@@ -1,4 +1,4 @@
-const CONFIG = {
+iconst CONFIG = {
     titleWeb: "Helo Cục Cứk Của Hữu Hoàng Nè Hẹ Hẹ",
     introTitle: 'Nhã Phương ',
     introDesc: `Trái đất vốn lạ thường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tôi thương bà lắm á , đừng bỏ tôi nheeeer :<<<<< .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://github.com/huuhoangne'Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/share/1K1FVZLHaY/
 }

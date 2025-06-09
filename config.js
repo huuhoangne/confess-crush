@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Helo Cục Cứk Của Hữu Hoàng Nè Hẹ Hẹ",
-    introTitle: 'Nhã Phương ",
+    introTitle: 'Nhã Phương ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao mày cứ đi nhầm đường
     Lạc vào tim tao lẻ loi:))
